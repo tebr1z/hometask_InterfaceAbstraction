@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hometask_InterfaceAbstraction", "hometask_InterfaceAbstraction\hometask_InterfaceAbstraction.csproj", "{EAD223C1-3C61-4C11-B055-1FFC7BC8663E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD223C1-3C61-4C11-B055-1FFC7BC8663E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD223C1-3C61-4C11-B055-1FFC7BC8663E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD223C1-3C61-4C11-B055-1FFC7BC8663E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD223C1-3C61-4C11-B055-1FFC7BC8663E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2135FC-CBC9-4F41-B4E9-26FB75D052E2}
+	EndGlobalSection
+EndGlobal
