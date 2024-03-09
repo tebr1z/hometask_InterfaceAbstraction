@@ -22,7 +22,7 @@ namespace hometask_InterfaceAbstraction.GeometricShapes
                 if (value>=0)
                     side = value;
                 else
-                    Console.WriteLine("Yan uzunlug menfi ola bilmez zehmet olmasa menfi olman deyer daxil edin");
+                    Console.WriteLine("Yan uzunlug menfi ola bilmez zehmet olmasa menfi olman deyer (Reqem) daxil edin");
             }
         }
 
