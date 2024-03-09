@@ -20,7 +20,7 @@ namespace hometask_InterfaceAbstraction.GeometricShapes
                 if (value >= 0)
                     width = value;
                 else
-                    Console.WriteLine("Genslik Menfi ola bilmez xais olunur duzgun deyer daxil edin");
+                    Console.WriteLine("Genslik Menfi ola bilmez xais olunur duzgun deyer (Reqem) daxil edin");
             }
 
         }
