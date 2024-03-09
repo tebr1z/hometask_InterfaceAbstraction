@@ -34,7 +34,7 @@ namespace hometask_InterfaceAbstraction.GeometricShapes
             {
                 if (value >= 0)
                     length = value;
-                else Console.WriteLine("Uzunlugu menfi ola bilmez xais olunur duzgun deyer daxil edin");
+                else Console.WriteLine("Uzunlugu menfi ola bilmez xais olunur duzgun  deyer (Reqem) daxil edin");
             }
 
         }
