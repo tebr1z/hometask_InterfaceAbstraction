@@ -51,7 +51,7 @@ public class User : IAccount
         }
         if (!ContainsDigit(password))
         {
-            
+            Console.WriteLine("========================================");
             Console.WriteLine("Sifre en bir reqem olamlidir");
             return false;
         }
