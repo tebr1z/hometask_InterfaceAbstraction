@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace hometask_InterfaceAbstraction.Auth
 {
-    internal class IAccount
+    public interface IAccount
     {
+        bool PasswordChecker(string password);
+        void ShowInfo();
     }
+
 }
