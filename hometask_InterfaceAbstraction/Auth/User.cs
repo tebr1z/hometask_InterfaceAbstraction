@@ -33,8 +33,8 @@ public class User : IAccount
     {
         if (password.Length < 8)
         {
-           
-            Console.WriteLine("Sifre en az 8 reqem ve herf olmalidir.");
+            Console.WriteLine("========================================");
+            Console.WriteLine("Sifre en az 8 karakter uzunlugunda  olmalidir.");
             return false;
         }
         if (!ContainsUpperCase(password))

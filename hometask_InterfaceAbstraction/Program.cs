@@ -1,4 +1,5 @@
-﻿using hometask_InterfaceAbstraction.GeometricShapes;
+﻿using hometask_InterfaceAbstraction.Auth;
+using hometask_InterfaceAbstraction.GeometricShapes;
 
 namespace hometask_InterfaceAbstraction
 {
