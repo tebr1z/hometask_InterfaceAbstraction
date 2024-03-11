@@ -40,7 +40,7 @@ public class User : IAccount
         if (!ContainsUpperCase(password))
         {
             Console.WriteLine("========================================");
-            Console.WriteLine("Sifre en az bir boyuk herf olmalidir");
+            Console.WriteLine("Sifre en az bir boyuk herf olmalidir.");
             return false;
         }
         if (!ContainsLowerCase(password))
