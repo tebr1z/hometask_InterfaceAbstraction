@@ -45,7 +45,7 @@ public class User : IAccount
         }
         if (!ContainsLowerCase(password))
         {
-         
+            Console.WriteLine("========================================");
             Console.WriteLine("Şifre en az  bir balaca herf olmalidir");
             return false;
         }
